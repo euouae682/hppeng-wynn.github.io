@@ -4297,7 +4297,7 @@
             "display": {
                 "row": 18,
                 "col": 1,
-                "icon": "node_1"
+                "icon": "node_0"
             },
             "properties": {},
             "effects": []  
@@ -6384,7 +6384,7 @@
             "display": {
                 "row": 21,
                 "col": 1,
-                "icon": "node_1"
+                "icon": "node_0"
             },
             "properties": {},
             "effects": [
@@ -6726,7 +6726,7 @@
             "display": {
                 "row": 23,
                 "col": 6,
-                "icon": "node_1"
+                "icon": "node_0"
             },
             "properties": {
                 "duration": 4
@@ -7103,7 +7103,7 @@
             "display": {
                 "row": 28,
                 "col": 2,
-                "icon": "node_1"
+                "icon": "node_0"
             },
             "properties": {},
             "effects": [
@@ -8319,7 +8319,7 @@
             "display": {
                 "row": 16,
                 "col": 6,
-                "icon": "node_1"
+                "icon": "node_0"
             },
             "properties": {},
             "effects": []
@@ -8454,7 +8454,7 @@
             "display": {
                 "row": 20,
                 "col": 1,
-                "icon": "node_2"
+                "icon": "node_0"
             },
             "properties": {},
             "effects": []
