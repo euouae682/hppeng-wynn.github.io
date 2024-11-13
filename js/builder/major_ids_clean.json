@@ -21,7 +21,7 @@
     },
     "HAWKEYE": {
         "displayName": "Hawkeye",
-        "description": "Condense Arrow Storm into a tight beam. Arrows deal ✤10%, ✦1%, and ❋1%",
+        "description": "Condense Arrow Storm into a tight beam. Arrows deal 10% Neutral, 1% Thunder, and 1% Air damage",
         "abilities": [
             {
                 "class": "Archer",
